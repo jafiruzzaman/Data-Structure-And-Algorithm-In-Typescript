@@ -1,5 +1,3 @@
-Absolutely! Here’s a **complete README template** for your `00_basics` folder that explains **TypeScript, its origin, and all the programming basics needed to start DSA**. You can use this as the foundation guide for your roadmap.
-
 ---
 
 # **00_basics: TypeScript Foundation for DSA**

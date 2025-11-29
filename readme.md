@@ -1,9 +1,8 @@
 # 🚀 DSA Mastery Roadmap (TypeScript – FAANG Preparation)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge)
 ![Questions Completed](https://img.shields.io/badge/Completed-%2F600-green?style=for-the-badge)
-
 
 This repository is my **TypeScript DSA journey**, preparing for FAANG-level coding interviews. It contains optimized solutions, notes, and patterns.
 
@@ -11,16 +10,16 @@ This repository is my **TypeScript DSA journey**, preparing for FAANG-level codi
 
 ## 🎯 Objectives
 
-* Master **TypeScript DSA + built-in methods**
-* Solve **450–600 high-quality problems**
-* Complete top DSA sheets: Striver, Love Babbar, Apna College
-* Build intuition in:
+- Master **TypeScript DSA + built-in methods**
+- Solve **450–600 high-quality problems**
+- Complete top DSA sheets: Striver, Love Babbar, Apna College
+- Build intuition in:
 
-  * Arrays, Strings, Binary Search
-  * Recursion, Advanced Recursion
-  * Trees, BST, AVL
-  * Graphs, Heaps, Sliding Window, Two Pointers
-  * Dynamic Programming, Backtracking, Greedy, Bit Manipulation
+  - Arrays, Strings, Binary Search
+  - Recursion, Advanced Recursion
+  - Trees, BST, AVL
+  - Graphs, Heaps, Sliding Window, Two Pointers
+  - Dynamic Programming, Backtracking, Greedy, Bit Manipulation
 
 ---
 
@@ -67,31 +66,31 @@ This repository is my **TypeScript DSA journey**, preparing for FAANG-level codi
 
 | Topic                                                  | Status | Questions Completed |
 | ------------------------------------------------------ | ------ | ------------------- |
-| [00_basics](./00_basics)                               | ⚪      | 0/0                 |
-| [01_time_space_complexity](./01_time_space_complexity) | ⚪      | 0/0                 |
-| [02_pattern_problem](./02_pattern_problem)             | ⚪      | 0/0                 |
-| [03_basics_of_math](./03_basics_of_math)               | ⚪      | 0/0                 |
-| [04_basic_recursion](./04_basic_recursion)             | ⚪      | 0/0                 |
-| [05_basic_sortings](./05_basic_sortings)               | ⚪      | 0/0                 |
-| [06_advanced_sortings](./06_advanced_sortings)         | ⚪      | 0/0                 |
-| [07_arrays](./07_arrays)                               | ⚪      | 0/0                 |
-| [08_binary-search](./08_binary-search)                 | ⚪      | 0/0                 |
-| [09_strings](./09_strings)                             | ⚪      | 0/0                 |
-| [10_advanced_recursion](./10_advanced_recursion)       | ⚪      | 0/0                 |
-| [11_oops](./11_oops)                                   | ⚪      | 0/0                 |
-| [12_linked_list](./12_linked_list)                     | ⚪      | 0/0                 |
-| [13_stack](./13_stack)                                 | ⚪      | 0/0                 |
-| [14_queue](./14_queue)                                 | ⚪      | 0/0                 |
-| [15_binary_tree](./15_binary_tree)                     | ⚪      | 0/0                 |
-| [16_binary_search_tree](./16_binary_search_tree)       | ⚪      | 0/0                 |
-| [17_avl_tree](./17_avl_tree)                           | ⚪      | 0/0                 |
-| [18_heap](./18_heap)                                   | ⚪      | 0/0                 |
-| [19_sliding_window](./19_sliding_window)               | ⚪      | 0/0                 |
-| [20_graph](./20_graph)                                 | ⚪      | 0/0                 |
-| [21_greedy](./21_greedy)                               | ⚪      | 0/0                 |
-| [22_backtracking](./22_backtracking)                   | ⚪      | 0/0                 |
-| [23_dynamic_programming](./23_dynamic_programming)     | ⚪      | 0/0                 |
-| [24_bit_manipulation](./24_bit_manipulation)           | ⚪      | 0/0                 |
+| [00_basics](./00_basics)                               | 🟢     | 0/0                 |
+| [01_time_space_complexity](./01_time_space_complexity) | ⚪     | 0/0                 |
+| [02_pattern_problem](./02_pattern_problem)             | ⚪     | 0/0                 |
+| [03_basics_of_math](./03_basics_of_math)               | ⚪     | 0/0                 |
+| [04_basic_recursion](./04_basic_recursion)             | ⚪     | 0/0                 |
+| [05_basic_sortings](./05_basic_sortings)               | ⚪     | 0/0                 |
+| [06_advanced_sortings](./06_advanced_sortings)         | ⚪     | 0/0                 |
+| [07_arrays](./07_arrays)                               | ⚪     | 0/0                 |
+| [08_binary-search](./08_binary-search)                 | ⚪     | 0/0                 |
+| [09_strings](./09_strings)                             | ⚪     | 0/0                 |
+| [10_advanced_recursion](./10_advanced_recursion)       | ⚪     | 0/0                 |
+| [11_oops](./11_oops)                                   | ⚪     | 0/0                 |
+| [12_linked_list](./12_linked_list)                     | ⚪     | 0/0                 |
+| [13_stack](./13_stack)                                 | ⚪     | 0/0                 |
+| [14_queue](./14_queue)                                 | ⚪     | 0/0                 |
+| [15_binary_tree](./15_binary_tree)                     | ⚪     | 0/0                 |
+| [16_binary_search_tree](./16_binary_search_tree)       | ⚪     | 0/0                 |
+| [17_avl_tree](./17_avl_tree)                           | ⚪     | 0/0                 |
+| [18_heap](./18_heap)                                   | ⚪     | 0/0                 |
+| [19_sliding_window](./19_sliding_window)               | ⚪     | 0/0                 |
+| [20_graph](./20_graph)                                 | ⚪     | 0/0                 |
+| [21_greedy](./21_greedy)                               | ⚪     | 0/0                 |
+| [22_backtracking](./22_backtracking)                   | ⚪     | 0/0                 |
+| [23_dynamic_programming](./23_dynamic_programming)     | ⚪     | 0/0                 |
+| [24_bit_manipulation](./24_bit_manipulation)           | ⚪     | 0/0                 |
 
 > Update the **status badge and QC number** as you solve problems.
 
@@ -127,11 +126,11 @@ flowchart TD
 
 ## 🔥 Final Goal
 
-* Master **core + advanced DSA in TypeScript**
-* Build strong **problem-solving intuition**
-* Solve **450–600 high-quality problems**
-* Prepare for **FAANG Online Assessments**
-* Build confidence for **Low-Level & High-Level Design**
+- Master **core + advanced DSA in TypeScript**
+- Build strong **problem-solving intuition**
+- Solve **450–600 high-quality problems**
+- Prepare for **FAANG Online Assessments**
+- Build confidence for **Low-Level & High-Level Design**
 
 ---
 
