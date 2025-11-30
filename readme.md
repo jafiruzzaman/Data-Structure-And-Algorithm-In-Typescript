@@ -64,33 +64,33 @@ This repository is my **TypeScript DSA journey**, preparing for FAANG-level codi
 > ✅ Click a topic to open its folder.
 > 🟢 Completed, 🟡 In Progress, ⚪ Pending
 
-| Topic                                                  | Status | Questions Completed |
-| ------------------------------------------------------ | ------ | ------------------- |
-| [00_basics](./00_basics)                               | 🟢     | 0/0                 |
-| [01_time_space_complexity](./01_time_space_complexity) | ⚪     | 0/0                 |
-| [02_pattern_problem](./02_pattern_problem)             | ⚪     | 0/0                 |
-| [03_basics_of_math](./03_basics_of_math)               | ⚪     | 0/0                 |
-| [04_basic_recursion](./04_basic_recursion)             | ⚪     | 0/0                 |
-| [05_basic_sortings](./05_basic_sortings)               | ⚪     | 0/0                 |
-| [06_advanced_sortings](./06_advanced_sortings)         | ⚪     | 0/0                 |
-| [07_arrays](./07_arrays)                               | ⚪     | 0/0                 |
-| [08_binary-search](./08_binary-search)                 | ⚪     | 0/0                 |
-| [09_strings](./09_strings)                             | ⚪     | 0/0                 |
-| [10_advanced_recursion](./10_advanced_recursion)       | ⚪     | 0/0                 |
-| [11_oops](./11_oops)                                   | ⚪     | 0/0                 |
-| [12_linked_list](./12_linked_list)                     | ⚪     | 0/0                 |
-| [13_stack](./13_stack)                                 | ⚪     | 0/0                 |
-| [14_queue](./14_queue)                                 | ⚪     | 0/0                 |
-| [15_binary_tree](./15_binary_tree)                     | ⚪     | 0/0                 |
-| [16_binary_search_tree](./16_binary_search_tree)       | ⚪     | 0/0                 |
-| [17_avl_tree](./17_avl_tree)                           | ⚪     | 0/0                 |
-| [18_heap](./18_heap)                                   | ⚪     | 0/0                 |
-| [19_sliding_window](./19_sliding_window)               | ⚪     | 0/0                 |
-| [20_graph](./20_graph)                                 | ⚪     | 0/0                 |
-| [21_greedy](./21_greedy)                               | ⚪     | 0/0                 |
-| [22_backtracking](./22_backtracking)                   | ⚪     | 0/0                 |
-| [23_dynamic_programming](./23_dynamic_programming)     | ⚪     | 0/0                 |
-| [24_bit_manipulation](./24_bit_manipulation)           | ⚪     | 0/0                 |
+| Topic                                                 | Status | Questions Completed |
+| ----------------------------------------------------- | ------ | ------------------- |
+| [00_basics](./00_basics)                              | 🟢     |                     |
+| [01_pattern_problem](./01_pattern_problem)            | 🟡     | 4/20                |
+| [02_time_space_complexity](./02_time_space_complxity) | ⚪     | 0/0                 |
+| [03_basics_of_math](./03_basics_of_math)              | ⚪     | 0/0                 |
+| [04_basic_recursion](./04_basic_recursion)            | ⚪     | 0/0                 |
+| [05_basic_sorting](./05_basic_sortings)               | ⚪     | 0/0                 |
+| [06_advanced_sorting](./06_advanced_sorting)          | ⚪     | 0/0                 |
+| [07_arrays](./07_arrays)                              | ⚪     | 0/0                 |
+| [08_binary-search](./08_binary-search)                | ⚪     | 0/0                 |
+| [09_strings](./09_strings)                            | ⚪     | 0/0                 |
+| [10_advanced_recursion](./10_advanced_recursion)      | ⚪     | 0/0                 |
+| [11_oops](./11_oops)                                  | ⚪     | 0/0                 |
+| [12_linked_list](./12_linked_list)                    | ⚪     | 0/0                 |
+| [13_stack](./13_stack)                                | ⚪     | 0/0                 |
+| [14_queue](./14_queue)                                | ⚪     | 0/0                 |
+| [15_binary_tree](./15_binary_tree)                    | ⚪     | 0/0                 |
+| [16_binary_search_tree](./16_binary_search_tree)      | ⚪     | 0/0                 |
+| [17_avl_tree](./17_avl_tree)                          | ⚪     | 0/0                 |
+| [18_heap](./18_heap)                                  | ⚪     | 0/0                 |
+| [19_sliding_window](./19_sliding_window)              | ⚪     | 0/0                 |
+| [20_graph](./20_graph)                                | ⚪     | 0/0                 |
+| [21_greedy](./21_greedy)                              | ⚪     | 0/0                 |
+| [22_backtracking](./22_backtracking)                  | ⚪     | 0/0                 |
+| [23_dynamic_programming](./23_dynamic_programming)    | ⚪     | 0/0                 |
+| [24_bit_manipulation](./24_bit_manipulation)          | ⚪     | 0/0                 |
 
 > Update the **status badge and QC number** as you solve problems.
 
